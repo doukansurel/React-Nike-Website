@@ -6,16 +6,16 @@ https://tailwindcss.com/docs/guides/vite linkinden kurulum aşamasına ulaşabil
 
 ## Geliştirilebilir Website Arayüzü
 
-1.Nav
+1.Nav & Hero
 ![Açıklama](ScreenShot/1.png)
 
-2.Hero
+2.PopularProducts
 ![Açıklama](ScreenShot/2.png)
 
-3.PopularProducts
+3.SuperQuality
 ![Açıklama](ScreenShot/3.png)
 
-4.SuperQuality & Services
+4.Services
 ![Açıklama](ScreenShot/4.png)
 
 5.SpecialOffer
@@ -24,7 +24,7 @@ https://tailwindcss.com/docs/guides/vite linkinden kurulum aşamasına ulaşabil
 6.CustomerReviews
 ![Açıklama](ScreenShot/6.png)
 
-Subscribe
+7.Subscribe
 ![Açıklama](ScreenShot/7.png)
 
 8.Footer 
