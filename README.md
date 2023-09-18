@@ -1,4 +1,4 @@
-Herkese Merhaba JavaScript Mastery TailwindCss eğiitm videosunu kullanarak hazırladığım Nike Websitesi.
+Herkese Merhaba JavaScript Mastery Tailwindcss eğitim videosunu kullanarak hazırladığım Nike Websitesi.
 
 ### Kurulum Adımları
 
