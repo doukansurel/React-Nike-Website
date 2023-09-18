@@ -15,16 +15,16 @@ https://tailwindcss.com/docs/guides/vite linkinden kurulum aşamasına ulaşabil
 3.PopularProducts
 ![Açıklama](ScreenShot/3.png)
 
-4.SuperQuality
+4.SuperQuality & Services
 ![Açıklama](ScreenShot/4.png)
 
-5.Services
+5.SpecialOffer
 ![Açıklama](ScreenShot/5.png)
 
-6.SpecialOffer
+6.CustomerReviews
 ![Açıklama](ScreenShot/6.png)
 
-7.CustomerReviews & Subscribe
+Subscribe
 ![Açıklama](ScreenShot/7.png)
 
 8.Footer 
